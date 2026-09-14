@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "nombre": "Mini",
+        "especie": "Perro",
+        "edad": 4,
+        "descripcion": "Caniche mini toy hembra. Cariñosa y compañera. Castrada y vacunada.",
+        "estado": "En adopción",
+        "imagen": "/img/mini.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "Manola",
+        "especie": "Gato",
+        "edad": 1,
+        "descripcion": "Gata color blanco y gris. Independiente, mimosa y juguetona. Castrada y vacunada.",
+        "estado": "Reservada",
+        "imagen": "/img/manola.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "Paquito",
+        "especie": "Gato",
+        "edad": 2,
+        "descripcion": "Gato color gris pardo. Tranquilo y curioso. Castrado y vacunado.",
+        "estado": "En adopción",
+        "imagen": "/img/mini_caniche.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "Coco",
+        "especie": "Conejo",
+        "edad": 2,
+        "descripcion": "Conejo sociable y curioso. Disfruta explorar su entorno y recibir caricias.",
+        "estado": "Reservada",
+        "imagen": "/img/coco.jpg"
+    },
+    {
+        "id": 5,
+        "nombre": "Canelo",
+        "especie": "Perro",
+        "edad": 5,
+        "descripcion": "Perro amigable y protector. Disfruta de los paseos al aire libre. Castrado y vacunado.",
+        "estado": "En adopción",
+        "imagen": "/img/rocco.jpg"
+    },
+    {
+        "id": 6,
+        "nombre": "Nala",
+        "especie": "Gato",
+        "edad": 4,
+        "descripcion": "Gata color blanco. Muy afectuosa y compañera. Castrada y vacunada.",
+        "estado": "Adoptada",
+        "imagen": "/img/nala.jpg"
+    }
+]
