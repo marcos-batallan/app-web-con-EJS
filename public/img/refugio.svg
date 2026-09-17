@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 740 740"
+     width="740" height="740"
+     role="img"
+     aria-labelledby="title desc">
+  <title id="title">Refugio para mascotas</title>
+  <desc id="desc">Ícono de una casita negra con una huella, contorneada con un degradado amarillo, naranja y rojo.</desc>
+
+  <defs>
+    <linearGradient id="logoGradient" x1="70" y1="0" x2="670" y2="0"
+                    gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#ffe000"/>
+      <stop offset="42%" stop-color="#ff9d00"/>
+      <stop offset="72%" stop-color="#ff5a00"/>
+      <stop offset="100%" stop-color="#ed1026"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Roof -->
+  <path d="M 682,251 672,241 622,212 599,196 597,197 578,183 494,133 489,128 382,62 374,59 374,57 358,61 349,69 347,68 327,79 307,94 302,94 298,99 272,113 268,118 262,119 256,125 254,124 253,127 209,153 201,160 188,166 175,176 157,185 85,231 76,234 75,237 59,247 56,263 58,270 69,276 79,276 87,272 92,267 105,262 105,260 108,260 108,258 129,245 131,246 137,240 160,228 160,226 179,214 186,212 186,210 244,176 268,159 273,158 280,151 366,99 372,99 407,119 407,122 412,123 460,154 468,156 483,168 509,182 509,184 553,210 555,209 557,214 602,240 619,252 621,251 625,256 655,274 668,276 676,273 682,264 Z"
+        fill="#000"
+        stroke="url(#logoGradient)" stroke-width="17"
+        stroke-linejoin="round" stroke-linecap="round"/>
+
+  <!-- Main house -->
+  <path d="M 165,246 165,635 574,635 574,248 571,244 550,233 504,203 494,199 478,187 369,120 300,163 301,166 296,165 274,180 265,183 256,191 232,206 231,204 220,213 Z"
+        fill="#000"
+        stroke="url(#logoGradient)" stroke-width="13"
+        stroke-linejoin="round" stroke-linecap="round"/>
+
+  <!-- Side posts -->
+  <path d="M 145,259 112,279 112,635 145,634 Z"
+        fill="#000"
+        stroke="url(#logoGradient)" stroke-width="11"
+        stroke-linejoin="round"/>
+  <path d="M 594,259 593,635 626,635 627,280 Z"
+        fill="#000"
+        stroke="url(#logoGradient)" stroke-width="11"
+        stroke-linejoin="round"/>
+
+  <!-- Paw toes -->
+  <path d="M 316,277 311,281 305,293 301,310 301,321 308,339 315,345 326,346 333,339 336,331 336,302 326,281 Z"
+        fill="#000"
+        stroke="url(#logoGradient)" stroke-width="11"
+        stroke-linejoin="round"/>
+  <path d="M 423,277 416,278 409,286 402,310 403,334 406,340 413,346 421,346 430,340 434,334 437,321 434,295 Z"
+        fill="#000"
+        stroke="url(#logoGradient)" stroke-width="11"
+        stroke-linejoin="round"/>
+  <path d="M 219,337 211,353 215,384 219,392 229,401 236,403 245,402 251,390 248,367 244,358 241,358 241,353 236,345 225,337 Z"
+        fill="#000"
+        stroke="url(#logoGradient)" stroke-width="11"
+        stroke-linejoin="round"/>
+  <path d="M 519,337 510,339 500,348 489,370 487,387 493,402 505,403 518,394 524,382 526,350 Z"
+        fill="#000"
+        stroke="url(#logoGradient)" stroke-width="11"
+        stroke-linejoin="round"/>
+
+  <!-- Main paw pad -->
+  <path d="M 248,515 249,534 262,549 273,554 288,554 302,550 331,532 362,523 376,523 398,528 439,551 446,552 447,554 465,554 482,544 488,535 490,527 490,512 478,481 439,423 424,407 409,397 397,392 376,388 343,391 318,404 296,426 285,445 283,445 271,463 255,493 Z"
+        fill="#000"
+        stroke="url(#logoGradient)" stroke-width="13"
+        stroke-linejoin="round" stroke-linecap="round"/>
+
+  <!-- Base -->
+  <path d="M 83,680 85,682 654,681 654,656 88,655 85,656 85,678 Z"
+        fill="#000"
+        stroke="url(#logoGradient)" stroke-width="14"
+        stroke-linejoin="round"/>
+</svg>
