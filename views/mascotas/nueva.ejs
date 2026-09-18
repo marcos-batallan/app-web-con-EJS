@@ -24,9 +24,9 @@
                 <label for="estado">Estado</label>
                 <select id="estado" name="estado" required>
                     <option value="">Seleccionar estado</option>
-                    <option value="En adopción">En adopción</option>
-                    <option value="Reservada">Reservada</option>
-                    <option value="Adoptada">Adoptada</option>
+                    <option value="En adopción" <%= valores.estado === "En adopción" ? "selected" : "" %>>En adopción</option>
+                    <option value="Reservada" <%= valores.estado === "Reservada" ? "selected" : "" %>>Reservada</option>
+                    <option value="Adoptada" <%= valores.estado === "Adoptada" ? "selected" : "" %>>Adoptada</option>
                 </select>
 
                 <button type="submit">Guardar mascota nueva</button>

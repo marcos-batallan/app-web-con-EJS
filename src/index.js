@@ -85,7 +85,9 @@ async function main() {
         if (
             !nombreLimpio ||
             !especieLimpia ||
-            !Number.isFinite (edadNumerica) || edadNumerica < 0 ||
+            !Number.isFinite (edadNumerica) ||
+            !Number.isInteger (edadNumerica) ||
+            edadNumerica < 0 ||
             !descripcionLimpia ||
             !estadoLimpio
         ) {
