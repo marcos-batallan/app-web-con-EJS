@@ -13,16 +13,21 @@
         <section class="grilla" aria-label="Animales disponibles">
             <% mascotas.forEach((mascota)=> { %>
                 <article class="tarjeta">
+                    <img src="<%= mascota.imagen %>" alt="Foto de <%= mascota.nombre %>">
                     <p class="etiqueta">
                         <%= mascota.especie %>
                     </p>
                     <h2>
                         <%= mascota.nombre %>
                     </h2>
-                    <p class="estado"><%= mascota.estado %>
+                    <p>
+                        Edad: <%= mascota.edad %> años
+                    </p>
+                    <p class="estado">
+                        <%= mascota.estado %>
                     </p>
                     <a href="/mascotas/<%= mascota.id %>">Ver detalle</a>
                 </article>
-            <% }) %>
+                <% }) %>
         </section>
-    <% } %>
+        <% } %>

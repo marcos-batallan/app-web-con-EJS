@@ -6,7 +6,7 @@
         "edad": 4,
         "descripcion": "Caniche mini toy hembra. Cariñosa y compañera. Castrada y vacunada.",
         "estado": "En adopción",
-        "imagen": "/img/mini.jpg"
+        "imagen": "/img/mini.webp"
     },
     {
         "id": 2,
@@ -15,7 +15,7 @@
         "edad": 1,
         "descripcion": "Gata color blanco y gris. Independiente, mimosa y juguetona. Castrada y vacunada.",
         "estado": "Reservada",
-        "imagen": "/img/manola.jpg"
+        "imagen": "/img/manola.webp"
     },
     {
         "id": 3,
@@ -24,7 +24,7 @@
         "edad": 2,
         "descripcion": "Gato color gris pardo. Tranquilo y curioso. Castrado y vacunado.",
         "estado": "En adopción",
-        "imagen": "/img/mini_caniche.jpg"
+        "imagen": "/img/paquito.webp"
     },
     {
         "id": 4,
@@ -33,7 +33,7 @@
         "edad": 2,
         "descripcion": "Conejo sociable y curioso. Disfruta explorar su entorno y recibir caricias.",
         "estado": "Reservada",
-        "imagen": "/img/coco.jpg"
+        "imagen": "/img/coco.webp"
     },
     {
         "id": 5,
@@ -42,7 +42,7 @@
         "edad": 5,
         "descripcion": "Perro amigable y protector. Disfruta de los paseos al aire libre. Castrado y vacunado.",
         "estado": "En adopción",
-        "imagen": "/img/rocco.jpg"
+        "imagen": "/img/canelo.webp"
     },
     {
         "id": 6,
@@ -51,6 +51,6 @@
         "edad": 4,
         "descripcion": "Gata color blanco. Muy afectuosa y compañera. Castrada y vacunada.",
         "estado": "Adoptada",
-        "imagen": "/img/nala.jpg"
+        "imagen": "/img/nala.webp"
     }
 ]

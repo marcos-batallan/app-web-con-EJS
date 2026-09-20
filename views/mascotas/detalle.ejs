@@ -1,14 +1,21 @@
 <article class="detalle">
+    <img src="<%= mascota.imagen %>" alt="Foto de <%= mascota.nombre %>">
     <p class="etiqueta">
         <%= mascota.especie %>
     </p>
     <h1>
         <%= mascota.nombre %>
     </h1>
+    <p>
+        Edad: <%= mascota.edad %> años
+    </p>
     <p class="estado"><%= mascota.estado %>
     </p>
     <p>
         <%= mascota.descripcion %>
+    </p>
+    <p>
+        ID: <%= mascota.id %>
     </p>
     <a href="/mascotas">Volver al catálogo de mascotas</a>
 </article>
